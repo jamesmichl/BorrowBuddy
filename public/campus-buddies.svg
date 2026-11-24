@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 180" fill="none">
+  <title>Tas kampus dan kalkulator berjalan bersama</title>
+  <ellipse cx="205" cy="162" rx="128" ry="8" fill="#e6bd48"/>
+  <g stroke="#151814" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- A spiral-bound notebook peeks out of the backpack. -->
+    <g transform="rotate(-17 132 63)">
+      <rect x="100" y="22" width="63" height="78" rx="6" fill="#d1b0f1"/>
+      <path d="M113 25v70m12-49h25m-25 8h19" stroke-width="2"/>
+      <path d="M96 34h9m-9 12h9m-9 12h9m-9 12h9"/>
+    </g>
+    <!-- Shoulder strap, walking feet and arms. -->
+    <path d="M135 73c-23-1-42 32-33 53 4 10 17 7 25 0l7-13c-12 11-18 11-18 2-1-9 8-26 19-29z" fill="#88a578"/>
+    <path d="m155 133-6 17-18 3c-8 2-9 11-1 11h28c5 0 6-4 7-9l4-19m26-6 8 13 14-6c7-3 14 3 10 9l-19 15c-4 3-8 1-11-2l-16-21" fill="#fff7e2"/>
+    <path d="M210 85q17 13 31 0" stroke-width="5"/>
+    <path d="M237 88c-4-6-2-10 0-10s4 4 5 5c2-4 4-11 7-10s1 7 0 9c6-5 10-5 11-2 1 4-6 8-11 11-5 3-10 2-12-3z" fill="#fff7e2"/>
+    <g transform="rotate(6 170 92)">
+      <path d="M152 49c-3-25 35-29 39-4l-8 5c-2-19-23-16-22 0z" fill="#fff7e2"/>
+      <path d="M118 113c2-45 13-72 42-74 31-2 49 10 52 41l5 45q1 17-16 19l-68 2c-16 0-18-16-15-33z" fill="#166547"/>
+      <path d="M134 138c-2-17 1-66 13-83 7-11 17-14 26-15" stroke="#122e20"/>
+      <path d="M161 61c11-6 29-6 39 0" stroke="#80a789" stroke-width="2.5"/>
+      <path d="M150 112q1-10 13-12l34-4q12 0 12 11l2 16q0 9-13 11l-36 4q-13 0-13-9z" fill="#c5df4d"/>
+      <path d="m154 114 51-7m-9 3-1 6" stroke-width="2.3"/>
+      <g fill="#151814" stroke="none"><ellipse cx="164" cy="81" rx="3" ry="6"/><ellipse cx="184" cy="78" rx="3" ry="6"/></g>
+      <path d="M168 87q8 9 14-2" stroke="#fff5da" stroke-width="2.5"/>
+      <path d="M130 93q-17 1-23-10" stroke-width="4"/>
+      <path d="M107 83q-9 3-15-5c-3-5 0-8 5-4-5-7-4-12 0-11l7 8c-2-8 2-11 5-6l3 10c1 4-1 7-5 8z" fill="#fff7e2"/>
+    </g>
+    <!-- Pocket calculator buddy. -->
+    <g transform="rotate(12 276 110)">
+      <path d="m263 144 1 9-9 4q-6 5 2 7l13-3 3-17m16-4 5 11 8-3q7 0 6 6l-15 7-11-17" fill="#fff7e2"/>
+      <rect x="250" y="77" width="52" height="70" rx="8" fill="#bda0e6"/>
+      <rect x="255" y="78" width="49" height="66" rx="7" fill="#fff8e6"/>
+      <rect x="261" y="85" width="36" height="16" rx="3" fill="#bfd5a4" stroke-width="2"/>
+      <path d="M270 91v2m15-2v2m-11 1q3 4 6 0" stroke-width="2"/>
+      <g fill="#cdb2ed" stroke-width="1.8">
+        <rect x="262" y="108" width="8" height="7" rx="2"/><rect x="275" y="108" width="8" height="7" rx="2"/><rect x="288" y="108" width="8" height="7" rx="2"/>
+        <rect x="262" y="120" width="8" height="7" rx="2"/><rect x="275" y="120" width="8" height="7" rx="2"/><rect x="288" y="120" width="8" height="14" rx="2" fill="#f9ce50"/>
+      </g>
+    </g>
+    <path d="m68 94 14 3m-11 8 10-2m230-44 8-12m-1 19 12-4" stroke-width="2.5"/>
+    <path d="m252 27 2-8 3 8 8 2-8 3-2 8-3-8-8-2z" fill="#fff7e2" stroke-width="2"/>
+  </g>
+</svg>

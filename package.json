@@ -1,0 +1,41 @@
+{
+  "name": "borrowbuddy",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "22.x" },
+  "scripts": {
+    "seed:online": "node --experimental-strip-types scripts/seed-online.mts",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "seed:demo": "node --experimental-strip-types scripts/seed-demo.mts",
+    "migrate:legacy": "node --experimental-strip-types scripts/import-legacy.mts",
+    "test": "node --experimental-strip-types --test tests/*.test.mts"
+  },
+  "dependencies": {
+    "@fontsource/archivo-black": "^5.3.0",
+    "@fontsource/dm-sans": "^5.3.0",
+    "@tesseract.js-data/eng": "^1.0.0",
+    "@types/qrcode": "^1.5.6",
+    "lucide-react": "^0.468.0",
+    "next": "^16.0.0",
+    "postgres": "^4.1.1",
+    "qrcode": "^1.5.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "sharp": "^0.34.5",
+    "tesseract.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.0.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.9.0"
+  }
+}
